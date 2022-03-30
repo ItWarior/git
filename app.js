@@ -5,3 +5,9 @@ class Some {
 }
 
 let obj = new Some('oleg')
+
+//add new function
+
+function some() {
+    console.log('some')
+}
