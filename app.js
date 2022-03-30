@@ -4,3 +4,4 @@ console.log('some')
 
 let bob
 let bobb
+console.log('some')
