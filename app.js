@@ -1,3 +1,2 @@
-console.log('some')
+console.log('soваme')
 
-console.log('bob')
