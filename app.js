@@ -1,10 +1,11 @@
 class Some {
-    constructor(name) {
+    constructor(name, age) {
         this.name = name
+        this.age = age
     }
 }
 
-let obj = new Some('oleg')
+let obj = new Some('oleg', 25)
 
 //add new function
 
