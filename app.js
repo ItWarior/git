@@ -1,2 +1,1 @@
-let one
-let two
+console.log('some')
