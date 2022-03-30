@@ -1,3 +1,1 @@
-class App {
-    
-}
+let one
