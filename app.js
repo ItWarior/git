@@ -1,3 +1,1 @@
-console.log('some')
-
-console.log('bob')
+let ob = 25
